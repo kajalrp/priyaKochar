@@ -1,0 +1,7 @@
+{
+  "name": "gridApp3",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
